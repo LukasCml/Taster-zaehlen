@@ -43,7 +43,7 @@ void loop()
 
 void taster1()
 {
- wert++;
+  wert++;
 }
 
 

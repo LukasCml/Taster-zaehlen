@@ -8,8 +8,8 @@
 
 #include <OneButton.h>
 
-OneButton button1(11, false);                             // Taster 1 erstellen und dem Pin 11 zuweisen
-OneButton button2(12, false);                             // Taster 2 erstellen und dem Pin 12 zuweisen
+OneButton button1(1, false);                             // Taster 1 erstellen und dem Pin 11 zuweisen
+OneButton button2(2, false);                             // Taster 2 erstellen und dem Pin 12 zuweisen
 
 int wert = 0;
 
